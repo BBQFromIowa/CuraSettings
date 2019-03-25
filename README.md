@@ -1,3 +1,3 @@
-# CuraSettings-3.4.2
+# CuraSettings-3.
 
 simple cura settings saving as starting point
